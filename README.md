@@ -1,5 +1,4 @@
 # Data Collection
-# TermFrequency Using SpaCy
 
 Web Scraping on an article using **BeautifulSoup4**, **Pandas**, **Matplotlib**  &  **Python**.
 
