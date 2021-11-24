@@ -2,7 +2,7 @@
 
 Web Scraping on an article using **BeautifulSoup4**, **Pandas**, **Matplotlib**  &  **Python**.
 
-# Requirements
+# Libraries
 
 1.  [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
 2.  [Matplotlib](https://matplotlib.org/)
